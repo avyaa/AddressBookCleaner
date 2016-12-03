@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Address Book Cleaner</string>
-    <string name="button_scan">Scan!</string>
+    <string name="button_scan">Start!</string>
+    <string name="message">Number of records deleted = </string>
 </resources>
